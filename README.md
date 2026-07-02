@@ -57,8 +57,13 @@ Here lies the all of my solved leetcode problems
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0412-fizz-buzz) |
+| [1492-the-kth-factor-of-n](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/1492-the-kth-factor-of-n) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
