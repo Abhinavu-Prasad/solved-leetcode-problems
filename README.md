@@ -20,6 +20,7 @@ Here lies the all of my solved leetcode problems
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0049-group-anagrams) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
@@ -56,4 +57,8 @@ Here lies the all of my solved leetcode problems
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0412-fizz-buzz) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
