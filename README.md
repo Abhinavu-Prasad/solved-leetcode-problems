@@ -56,6 +56,7 @@ Here lies the all of my solved leetcode problems
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1492-the-kth-factor-of-n](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/1492-the-kth-factor-of-n) |
 ## Binary Search
