@@ -20,6 +20,7 @@ Here lies the all of my solved leetcode problems
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0049-group-anagrams) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -30,6 +31,7 @@ Here lies the all of my solved leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0049-group-anagrams) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -52,6 +54,7 @@ Here lies the all of my solved leetcode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
