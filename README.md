@@ -15,6 +15,7 @@ Here lies the all of my solved leetcode problems
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0412-fizz-buzz) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/3614-process-string-with-special-operations-ii) |
 ## Array
@@ -62,6 +63,7 @@ Here lies the all of my solved leetcode problems
 | [0009-palindrome-number](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1492-the-kth-factor-of-n](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/1492-the-kth-factor-of-n) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,4 +72,12 @@ Here lies the all of my solved leetcode problems
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/1492-the-kth-factor-of-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Recursion
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
