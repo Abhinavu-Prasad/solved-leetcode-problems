@@ -8,6 +8,7 @@ Here lies the all of my solved leetcode problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0412-fizz-buzz) |
 | [3612-process-string-with-special-operations-i](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/3614-process-string-with-special-operations-ii) |
@@ -39,6 +40,7 @@ Here lies the all of my solved leetcode problems
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 ## Stack
 |  |
@@ -49,6 +51,7 @@ Here lies the all of my solved leetcode problems
 | ------- |
 | [0049-group-anagrams](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -81,4 +84,8 @@ Here lies the all of my solved leetcode problems
 |  |
 | ------- |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
