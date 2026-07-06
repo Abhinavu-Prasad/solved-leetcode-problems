@@ -25,6 +25,7 @@ Here lies the all of my solved leetcode problems
 | [0015-3sum](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0049-group-anagrams) |
+| [0189-rotate-array](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
@@ -61,10 +62,12 @@ Here lies the all of my solved leetcode problems
 | ------- |
 | [0015-3sum](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1492-the-kth-factor-of-n](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/1492-the-kth-factor-of-n) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
