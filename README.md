@@ -30,6 +30,7 @@ Here lies the all of my solved leetcode problems
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2418-sort-the-people](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/2418-sort-the-people) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Greedy
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Here lies the all of my solved leetcode problems
 | [0141-linked-list-cycle](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2418-sort-the-people](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/2418-sort-the-people) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Linked List
 |  |
 | ------- |
@@ -86,6 +88,7 @@ Here lies the all of my solved leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -95,4 +98,12 @@ Here lies the all of my solved leetcode problems
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/2932-maximum-strong-pair-xor-i) |
+## Sliding Window
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
