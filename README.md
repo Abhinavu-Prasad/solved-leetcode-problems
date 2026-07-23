@@ -77,6 +77,7 @@ Here lies the all of my solved leetcode problems
 | [0412-fizz-buzz](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1492-the-kth-factor-of-n](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/1492-the-kth-factor-of-n) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
 | ------- |
