@@ -6,6 +6,7 @@ Here lies the all of my solved leetcode problems
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -66,6 +67,7 @@ Here lies the all of my solved leetcode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0189-rotate-array) |
@@ -107,4 +109,8 @@ Here lies the all of my solved leetcode problems
 |  |
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/2932-maximum-strong-pair-xor-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
