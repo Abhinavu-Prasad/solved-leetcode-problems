@@ -117,4 +117,5 @@ Here lies the all of my solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/main/0175-combine-two-tables/) | Easy |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 <!---LeetCode Topics End-->
