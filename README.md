@@ -119,5 +119,6 @@ Here lies the all of my solved leetcode problems
 | [0175-combine-two-tables](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0584-find-customer-referee](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/main/0584-find-customer-referee/) | Easy |
+| [0595-big-countries](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/main/0595-big-countries/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
