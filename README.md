@@ -91,6 +91,7 @@ Here lies the all of my solved leetcode problems
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0401-binary-watch](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/main/0401-binary-watch/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Recursion
@@ -121,4 +122,8 @@ Here lies the all of my solved leetcode problems
 | [0584-find-customer-referee](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/main/0595-big-countries/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0401-binary-watch](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/main/0401-binary-watch/) | Easy |
 <!---LeetCode Topics End-->
