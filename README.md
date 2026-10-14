@@ -26,6 +26,7 @@ Here lies the all of my solved leetcode problems
 | ------- | ------- |
 | [0015-3sum](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/main/0039-combination-sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -127,5 +128,6 @@ Here lies the all of my solved leetcode problems
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/main/0039-combination-sum/) | Medium |
 | [0401-binary-watch](https://github.com/Abhinavu-Prasad/solved-leetcode-problems/tree/main/0401-binary-watch/) | Easy |
 <!---LeetCode Topics End-->
